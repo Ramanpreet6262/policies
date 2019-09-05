@@ -57,7 +57,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. RamanPreet Singh raman.preet@octahacks.tech.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. Ramanpreet Singh raman.preet@octahacks.tech.
 
 
 
@@ -77,7 +77,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-RamanPreet Singh
+Ramanpreet Singh
 raman.preet@octahacks.tech
 +917528957640
 
